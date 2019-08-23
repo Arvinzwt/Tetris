@@ -3,3 +3,5 @@
 ![](./playing2.png)
 
 ![](./GAMEOVER.png)
+
+## 使用javafx
